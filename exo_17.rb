@@ -11,7 +11,7 @@ end
 puts "Voici la pyramide:"
 
 i = 1
-pierre = "#"
+pierre = "##"
 espace = " "
 while (i <= etages)
  repetition = etages - i
